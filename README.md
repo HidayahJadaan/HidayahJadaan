@@ -73,8 +73,9 @@
 <br />
 <br />
 <br />
-<h1> A little bit positivness </h1>
-
-![snake gif](https://github.com/HidayahJadaan/HidayahJadaan/blob/output/github-contribution-grid-snake.gif)
+<hr />
 
 ![Notes](https://github.com/HidayahJadaan/HidayahJadaan/assets/121747756/ab52616c-111c-4dd5-9bd6-681f3d739018)
+
+
+<h1> 📈 &nbsp;My GitHub History!</h1>
