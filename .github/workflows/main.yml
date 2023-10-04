@@ -17,9 +17,11 @@ jobs:
           github_user_name: HidayahJadaan
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
+          repository: HidayahJadaan/HidayahJadaan  # Make sure this is the correct repository URL
         env:
           GITHUB_TOKEN: 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
