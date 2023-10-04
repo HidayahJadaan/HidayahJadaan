@@ -64,7 +64,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
 </a>
 
-<a href="hkaljadaan18@cit.just.edu.jo">
+<a href="mailto:hkaljadaan18@cit.just.edu.jo">
   <img height="50" src="https://user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif"/>
 </a>
 </p>
