@@ -74,3 +74,5 @@
 <br />
 <br />
 <h1> 📈 &nbsp;My GitHub History!</h1>
+
+![snake gif](https://github.com/HidayahJadaan/HidayahJadaan/blob/output/github-contribution-grid-snake.gif)
