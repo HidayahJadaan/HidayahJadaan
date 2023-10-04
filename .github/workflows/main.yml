@@ -24,7 +24,7 @@ jobs:
 
       - name: Save Generated Files
         run: |
-          mkdir -p $GITHUB_WORKSPACE/output
+          mkdir -p HidayahJadaan/output
           mv *.gif *.svg $GITHUB_WORKSPACE/output/
 
       - name: Push Changes to Repository
