@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋</h1>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=2000&color=900C3F &width=935&lines=I'am+Hidayah+Al-Jadaan+, <CpE/>+fresh+graduate+from+JUST+University."> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=2000&color=BA55D3 &width=935&lines=I'am+Hidayah+Al-Jadaan+, <CpE/>+fresh+graduate+from+JUST+University."> </p>
 <h3 align="center">Full Stack Web Developer Trainee @Optimum Partners <img src="https://media.licdn.com/dms/image/D4E0BAQG0op6GSZa1PQ/company-logo_200_200/0/1694246235698?e=1704326400&v=beta&t=1_idaSxIAea9Nwz4E-Q57PA3lWJfwOANvmba9MQFapk" width=20 height=20> </h3> 
 
 
