@@ -38,5 +38,8 @@ jobs:
         with:
           target_branch: output
           build_dir: output
+          keep_history: false
+          allow_empty_commit: true
+          jekyll: true
         env:
-          GITHUB_TOKEN: ${{ secrets.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}} # Use your PAT secret here
+          GITHUB_TOKEN: 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
