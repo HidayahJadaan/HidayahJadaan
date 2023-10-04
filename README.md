@@ -9,10 +9,15 @@
 <br />
    
 * 💻 Working on building and `deploying` Websites
+  
 * 🔎 Always `learning` new things
+  
 *  💬 Ask me about Web Development, AI or Computer Engineering Principles
+  
 * 🤝 Interested in collaborating on `Computer Architecture`, `Memory Systems` researches
-* 📚 I love reading `books` and I enjoy `drawing mandala` 🎨 
+  
+* 📚 I love reading `books` and I enjoy `drawing mandala` 🎨
+  
 * ⚡ 🔭 🌠 Fun fact: I am deeply passionate about the mysteries of the universe and the wonders of galaxies.
 
 <br />
