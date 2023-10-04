@@ -24,8 +24,8 @@ jobs:
 
       - name: Save Generated Files
         run: |
-          mkdir -p HidayahJadaan/output
-          mv *.gif *.svg $GITHUB_WORKSPACE/output/
+          mkdir -p $GITHUB_WORKSPACE/output
+          mv dist/*.gif dist/*.svg $GITHUB_WORKSPACE/output/
 
       - name: Push Changes to Repository
         run: |
@@ -39,6 +39,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: gh-pages # Specify the branch you want to use for GitHub Pages
-          build_dir: dist
+          build_dir: $GITHUB_WORKSPACE/output # Update to the correct directory where your files are saved
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
