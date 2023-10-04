@@ -31,7 +31,7 @@ jobs:
           git config --global user.email "hkaljadaan18@cit.just.edu.jo"
           git add .
           git commit -m "Add snake game animation"
-          git push origin master
+          git push origin master # Use your desired branch name, e.g., "main" or "master"
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
@@ -39,4 +39,4 @@ jobs:
           target_branch: output
           build_dir: output
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.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}} # Use your PAT secret here
