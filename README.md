@@ -22,7 +22,7 @@
 <br />
 <br />
 
-<h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
+<h1>🚀&nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
 
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"  width="45" height="45"/>
