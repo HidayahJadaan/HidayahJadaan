@@ -56,7 +56,7 @@
 <br />
 <br />
 
-  <h1>🗨 You Can Cotact Me Via</h1>
+  <h1>🗨 You Can Contact Me Via</h1>
 
 
 <p align="center">
