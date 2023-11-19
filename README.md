@@ -33,6 +33,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"  width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"  width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  width="45" height="45"/>
+<img src="https://github.com/HidayahJadaan/HidayahJadaan/assets/121747756/febb250f-82fc-4b31-bcc0-31b5b116e443" width="45" height="45" />
+
 <!-- <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif"  width="45" height="45"/> -->
  <!-- <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif"  width="45" height="45"/> -->
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  width="45" height="45"/>
